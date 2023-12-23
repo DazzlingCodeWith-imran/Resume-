@@ -1,0 +1,51 @@
+body{
+    display: grid;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(8,25,131,1) 40%, rgba(0,212,255,1) 100%);
+   width: 95%;
+}
+.imran_heading{
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+a, p,h1{
+    color: #fff;
+    text-decoration: none;
+}
+img{
+    border-radius: 70%;
+    height: 60px;
+    width: 60px;
+}
+section{
+    border: solid #fff;
+    width: 93%;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+}
+table{
+    width: 100%;
+    border: 1px solid #fff;
+}
+th,td{
+    text-align: center;
+    color: #fff;
+}
+dt,dd{
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+.interset{
+    color: #fff;
+}
+.ORDER-LIST{
+    color: #fff;
+}
+footer{
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+}
